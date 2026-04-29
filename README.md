@@ -10,7 +10,7 @@
 **💻 Frontend Core & Mobile:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css" alt="Frontend Core" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,scss,html,css" alt="Frontend Core" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
