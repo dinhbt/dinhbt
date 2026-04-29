@@ -34,7 +34,7 @@
 **🚀 IDEs, Tools & DevOps:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,figma,jira,postman" alt="IDEs and Design Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,figma,postman" alt="IDEs and Design Tools" />
   </a>
   <br />
   <a href="https://skillicons.dev">
