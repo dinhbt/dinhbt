@@ -5,18 +5,6 @@
   I'm a software engineer based in Vietnam, passionate about building highly interactive, performant, and scalable applications. While I enjoy working across the entire stack, my sweet spot is crafting exceptional user interfaces, microfrontend architectures, and cross-platform mobile apps.
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently building **Frontend applications** and **Mobile apps** for projects like **DailyLex** and **dnsoftware**.
-- 💡 My main focus is on modern UI development (**React**, **Next.js**, **Microfrontend**) and mobile development with **React Native**, while maintaining robust Backends using **NestJS**.
-- 🌱 I’m currently optimizing **CI/CD pipelines**, exploring server deployments (Nginx, PM2), and improving my English proficiency.
-- ⚡ Fun fact: When I'm not debugging TypeScript or monitoring VPS RAM usage, I'm likely busy with dad duties!
-- 📫 How to reach me: **dinhbt95@gmail.com**
-
----
-
 ### 🛠 Tech Stack & Architecture
 
 **💻 Frontend Core & Mobile:**
@@ -33,23 +21,26 @@
   <img src="https://img.shields.io/badge/Microfrontend-black?style=for-the-badge&logo=webpack&logoColor=white" alt="Microfrontend" />
   <img src="https://img.shields.io/badge/Zustand-%23443E38.svg?style=for-the-badge&logoColor=white" alt="Zustand" />
   <img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Redux%20Saga-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Saga" />
 </p>
 
 **⚙️ Backend & Database:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,redis" alt="Backend Skills" />
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,redis,supabase" alt="Backend Skills" />
   </a>
 </p>
 
-**🚀 DevOps & Tools:**
+**🚀 IDEs, Tools & DevOps:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,nginx,linux,ubuntu,postman" alt="DevOps and Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,figma,jira,postman" alt="IDEs and Design Tools" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,githubactions,nginx,linux,ubuntu" alt="DevOps" />
   </a>
 </p>
-
----
 
 ### 📊 GitHub Stats
 
