@@ -14,20 +14,28 @@
   </a>
   <br />
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</p>
+
+**🎨 UI Frameworks & Components:**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Ant%20Design-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/React%20Native%20Paper-6200EE?style=for-the-badge&logo=react&logoColor=white" alt="React Native Paper" />
 </p>
 
 **🧩 Advanced Frontend & State Management:**
 <p align="left">
   <img src="https://img.shields.io/badge/Microfrontend-black?style=for-the-badge&logo=webpack&logoColor=white" alt="Microfrontend" />
   <img src="https://img.shields.io/badge/Zustand-%23443E38.svg?style=for-the-badge&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/TanStack-%23FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack" />
   <img src="https://img.shields.io/badge/Redux%20Saga-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Saga" />
 </p>
 
 **⚙️ Backend & Database:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,redis,supabase" alt="Backend Skills" />
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,redis,supabase,firebase" alt="Backend Skills" />
   </a>
 </p>
 
