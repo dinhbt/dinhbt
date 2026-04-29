@@ -1,19 +1,19 @@
 <h1 align="center">Hi there, I'm Dinh 👋</h1>
-<h3 align="center">Full-Stack Software Engineer | Frontend Enthusiast</h3>
+<h3 align="center">Full-Stack Software Engineer | Frontend & Mobile Enthusiast</h3>
 
 <p align="center">
-  I'm a software engineer based in Vietnam, passionate about building highly interactive, performant, and scalable web applications. While I enjoy working across the entire stack, my sweet spot is crafting exceptional user interfaces, microfrontend architectures, and optimizing frontend performance.
+  I'm a software engineer based in Vietnam, passionate about building highly interactive, performant, and scalable applications. While I enjoy working across the entire stack, my sweet spot is crafting exceptional user interfaces, microfrontend architectures, and cross-platform mobile apps.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building **DailyLex** and developing software solutions at **dnsoftware**.
-- 💡 My main focus is on modern Frontend development (**React**, **Next.js**, **Microfrontend**) while maintaining robust Backends using **NestJS**.
+- 🔭 I’m currently building **Frontend applications** and **Mobile apps** for projects like **DailyLex** and **dnsoftware**.
+- 💡 My main focus is on modern UI development (**React**, **Next.js**, **Microfrontend**) and mobile development with **React Native**, while maintaining robust Backends using **NestJS**.
 - 🌱 I’m currently optimizing **CI/CD pipelines**, exploring server deployments (Nginx, PM2), and improving my English proficiency.
 - ⚡ Fun fact: When I'm not debugging TypeScript or monitoring VPS RAM usage, I'm likely busy with dad duties!
-- 📫 How to reach me: **[Thêm link LinkedIn hoặc Email của bạn vào đây]**
+- 📫 How to reach me: **dinhbt95@gmail.com**
 
 ---
 
