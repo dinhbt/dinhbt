@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Dinh 👋</h1>
-<h3 align="center">Full-Stack Software Engineer | Frontend & Mobile Enthusiast</h3>
+<h3 align="center">Full-Stack Software Engineer </h3>
 
 <p align="center">
   I'm a software engineer based in Vietnam, passionate about building highly interactive, performant, and scalable applications. While I enjoy working across the entire stack, my sweet spot is crafting exceptional user interfaces, microfrontend architectures, and cross-platform mobile apps.
