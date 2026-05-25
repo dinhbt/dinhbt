@@ -50,7 +50,7 @@
   </a>
 </p>
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Commit History
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dinhbt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="GitHub Stats" />
@@ -65,8 +65,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinhbt&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Commit History" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=dinhbt&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </div>
+
+<br/>
 
 ---
 <p align="center">
